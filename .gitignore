@@ -1,0 +1,4 @@
+# Exclude Doxygen logs
+warnings.log
+
+__pycache__/
