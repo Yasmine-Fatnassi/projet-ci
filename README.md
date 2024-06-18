@@ -1,6 +1,6 @@
-# [Projet Pythagore]
+# [Pythagore]
 
-Bienvenue à la documentation de **[Pythagore]**.
+Bienvenue à la documentation de **Pythagore**.
 
 ## Table des Matières
 
@@ -11,7 +11,7 @@ Bienvenue à la documentation de **[Pythagore]**.
 
 ## Introduction
 
-[Pythagore] fournit des fonctions pour effectuer des opérations géometriques de base.
+Pythagore fournit des fonctions pour effectuer des opérations géometriques de base.
 
 ## Installation
 
