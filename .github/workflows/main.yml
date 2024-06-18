@@ -20,7 +20,7 @@ jobs:
 
     - name: Run unit tests
       run: |
-        python test_geometry.py -v
+        python test/test_geometry.py -v
 
     - name: Install Doxygen
       run: sudo apt-get install -y doxygen 
